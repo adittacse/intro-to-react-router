@@ -1,0 +1,9 @@
+.active {
+    color: white;
+    background-color: red;
+    text-decoration: underline;
+}
+
+.active:hover {
+    color: white;
+}
